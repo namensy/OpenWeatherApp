@@ -7,7 +7,6 @@ A beautiful and responsive weather application that provides real-time weather i
 - Real-time weather information
 - Search functionality for any city
 - Beautiful UI with gradient background
-- Responsive design that works on all devices
 - Weather icons for different conditions
 - Displays:
   - Current temperature
